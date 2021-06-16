@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/adapter_view" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/asynctask_exam1" />
+            <option value="$PROJECT_DIR$/custom_exer" />
+            <option value="$PROJECT_DIR$/database" />
+            <option value="$PROJECT_DIR$/exercise" />
+            <option value="$PROJECT_DIR$/geocoding_exam" />
+            <option value="$PROJECT_DIR$/googlemapexam" />
+            <option value="$PROJECT_DIR$/graphic_exam" />
+            <option value="$PROJECT_DIR$/graphic_thread_event" />
+            <option value="$PROJECT_DIR$/jsonparsing" />
+            <option value="$PROJECT_DIR$/location_exam1" />
+            <option value="$PROJECT_DIR$/mysql_login_example" />
+            <option value="$PROJECT_DIR$/openweathermap" />
+            <option value="$PROJECT_DIR$/recycler_view" />
+            <option value="$PROJECT_DIR$/recycler_view_custom" />
+            <option value="$PROJECT_DIR$/recycler_view_ex1" />
+            <option value="$PROJECT_DIR$/recycler_view_ex2" />
+            <option value="$PROJECT_DIR$/recycler_view_ex3" />
+            <option value="$PROJECT_DIR$/server_exam" />
+            <option value="$PROJECT_DIR$/thread_exam" />
+            <option value="$PROJECT_DIR$/volley_exam1" />
+            <option value="$PROJECT_DIR$/xmlparsing" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+include ':app', ':adapter_view', ':database', ':exercise', ':recycler_view', ':custom_exer', ':recycler_view_ex1', ':recycler_view_ex2', ':recycler_view_custom', ':openweathermap', ':jsonparsing', ':asynctask_exam1', ':volley_exam1', ':recycler_view_ex3', ':location_exam1', ':googlemapexam', ':geocoding_exam', ':server_exam', ':xmlparsing', ':graphic_exam'
+rootProject.name='App_2021_2'
+include ':thread_exam'
+include ':graphic_thread_event'
+include ':mysql_login_example'
